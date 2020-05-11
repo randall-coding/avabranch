@@ -9,10 +9,10 @@
     },
   "app": {
     "urls": [
-      "http://avabranch.zolmeister.com/"
+      "https://avabranch.zolmeister.com/"
     ],
     "launch": {
-      "web_url": "http://avabranch.zolmeister.com/"
+      "web_url": "https://avabranch.zolmeister.com/"
     }
   },
   "manifest_version": 2
