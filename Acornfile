@@ -1,0 +1,11 @@
+containers: {
+ web: {
+  image: "ghcr.io/randall-coding/avabranch"
+  ports: publish: [
+    "80/http",
+  ]
+  env: {
+    PORT: "80"
+  }
+ }
+}
