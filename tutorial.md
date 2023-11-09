@@ -5,7 +5,7 @@ Avabranch is a fun side-scrolling game that gives players control of two intertw
 
 The art of Avabranch is in the mastery of its controls; coordinating the movements of both branches simultaneously demands dexterity, strategy and fast reflexes. The game increases in difficulty as the game progresses and obstacles become more intricate and unpredictable.  Do you think you can beat the game?
 
-![ava_gameplay](https://github.com/randall-coding/avabranch/assets/39175191/3dbb2391-beb8-495e-8f95-9d513a27c05e)
+![ava_gameplay_2](https://github.com/randall-coding/avabranch/assets/39175191/ea12a377-ad57-4ab5-a75a-7bceb73245c4)
 
 ## Game Controls
 
