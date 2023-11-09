@@ -11,14 +11,16 @@ The art of Avabranch is in the mastery of its controls; coordinating the movemen
 \[P\] - pause
 
 **Intertwined mode**
-\[A\] - Move left
+
+\[A\] - Move left<br>
 \[F\] - Move right
 
 **Separated mode**
-\[A\] - Move left (left branch)
+
+\[A\] - Move left (left branch)<br>
 \[S\] - Move right (left branch)
 
-\[D\] - Move left (right branch)
+\[D\] - Move left (right branch)<br>
 \[F\] - Move right (right branch)
 
 ## Setup the Game
@@ -29,3 +31,6 @@ We've created a free account on https://acorn.io and clicked "Deploy Acorn" > "F
 Or we can deploy this acorn image by simply following this link https://acorn.io/run/avabranch?ref=randall-coding and clicking "Deploy"
 
 ## Play the Game
+Our acorn deployment gave us this endpoint to play the game https://avabranch-1b3e3022.ypkt0y.on-acorn.io
+
+If you deployed your own server you can find that endpoint by first clicking on the deployment in your acorn dashboard and clicking the copy icon next to "web".
